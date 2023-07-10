@@ -6,7 +6,7 @@
 
 header {
     background: rgba(229, 84, 115, 0.10);
-    height: 800px;
+    height: 100vh;
     display: flex;
 
     justify-content: space-around;
@@ -18,7 +18,7 @@ header {
     width: 800px;
     text-align: start;
     justify-content: center;
-    margin-top: 150px;
+    margin-top: 250px;
     margin-left: 150px;
 
 }
@@ -35,7 +35,7 @@ header {
 
 .banner_img img {
     width: 550px;
-    height: 700px;
+    height: 860px;
 }
 
 .banner_img img {
