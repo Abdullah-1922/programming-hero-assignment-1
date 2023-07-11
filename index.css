@@ -8,10 +8,8 @@ header {
     background: rgba(229, 84, 115, 0.10);
     height: 100vh;
     display: flex;
-
     justify-content: space-around;
     width: 100%;
-
 }
 
 .banner_title {
@@ -20,7 +18,6 @@ header {
     justify-content: center;
     margin-top: 250px;
     margin-left: 150px;
-
 }
 
 .banner_title>h1 {
@@ -39,9 +36,6 @@ header {
 }
 
 .banner_img img {
-    /* margin-top: 50px; */
-    /* margin-right: 300px;
-    margin-bottom: 0px; */
     margin-left: 100px;
     margin-top: 100px;
 }
@@ -100,7 +94,6 @@ header>section {
     justify-content: space-around;
     align-items: center;
     margin: 50px auto;
-
 }
 
 .off1 {
@@ -114,8 +107,6 @@ header>section {
     width: 310px;
     height: 428px;
     margin-top: 110px;
-
-
 }
 
 .off2 {
@@ -150,7 +141,6 @@ header>section {
     justify-content: space-around;
     align-items: center;
     text-decoration: underline;
-
 }
 
 /* Rare flower collection class="section_2" */
@@ -160,7 +150,6 @@ header>section {
     margin: auto;
     text-align: center;
     background: hsl(185, 53%, 87%);
-
 }
 
 .rare {
@@ -170,7 +159,6 @@ header>section {
 
 .rare1 {
     margin-right: 60px;
-
 }
 
 .rare1 img {
@@ -203,7 +191,7 @@ header>section {
 
 
 
-/* sale and sung up , class="section_3" */
+/* sale and sing up , class="section_3" */
 .section_3 {
     height: 600px;
     width: 100%;
